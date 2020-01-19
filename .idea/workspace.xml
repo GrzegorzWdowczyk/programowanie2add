@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c0db23-40dd-4871-9fbc-6a3736fe0851" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic1/ArrayBubbleSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic1/ArrayBubbleSorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic1/ArrayInitializerHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic1/ArrayInitializerHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic1/Basic1Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic1/Basic1Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic2/Basic2Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic2/Basic2Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic3/Basic3Maps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic3/Basic3Maps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic4/Basic4Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic4/Basic4Sets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic4/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic5/BackendDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic5/BackendDeveloper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic5/Basic5Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic5/Basic5Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic5/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic5/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic5/FrontendDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic5/FrontendDeveloper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic5/MobileDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic5/MobileDeveloper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic6/Basic6Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic6/Basic6Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic6/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic6/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic6/Motorbike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic6/Motorbike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic6/Rocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic6/Rocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic6/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic6/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic7/Basic7UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic7/Basic7UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic8/Basic8FilesAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/Basic8FilesAndStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic8/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic8/BookShortInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/BookShortInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic8/BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/BookStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic8/BookStoreInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/BookStoreInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic8/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/Genre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic/basic9/Basic9Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic9/Basic9Streams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +18,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1Wc3aHR0p0gq1q5o9hpVww3DEfM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -58,6 +38,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.sdacademy.intermediate" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="RectangleTest.testGetOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -105,7 +90,19 @@
       <option name="presentableId" value="Default" />
       <updated>1579435118250</updated>
     </task>
+    <task id="LOCAL-00001" summary="Testy">
+      <created>1579438513879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579438513879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testy" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579438352340">
@@ -116,21 +113,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579438353846" />
-    <state width="1322" height="243" key="GridCell.Tab.0.bottom" timestamp="1579438457230">
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1579438511440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="243" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579438457230" />
-    <state width="1322" height="243" key="GridCell.Tab.0.center" timestamp="1579438457229">
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579438511440" />
+    <state width="661" height="243" key="GridCell.Tab.0.bottom" timestamp="1579439082515">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="243" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579438457229" />
-    <state width="1322" height="243" key="GridCell.Tab.0.left" timestamp="1579438457229">
+    <state width="661" height="243" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579439082515" />
+    <state width="661" height="243" key="GridCell.Tab.0.center" timestamp="1579439082514">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="243" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579438457229" />
-    <state width="1322" height="243" key="GridCell.Tab.0.right" timestamp="1579438457229">
+    <state width="661" height="243" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579439082514" />
+    <state width="661" height="243" key="GridCell.Tab.0.left" timestamp="1579439082514">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="243" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579438457229" />
+    <state width="661" height="243" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579439082514" />
+    <state width="661" height="243" key="GridCell.Tab.0.right" timestamp="1579439082514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="243" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579439082514" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1579438542729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579438542729" />
+    <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579439050730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1579439050730" />
   </component>
 </project>
