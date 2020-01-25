@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c0db23-40dd-4871-9fbc-6a3736fe0851" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookShortInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookStoreInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Complex1BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Genre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pl/sdacademy/intermediate/basic10/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/intermediate/basic10/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic8/Book$BookBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic8/Book$BookBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic8/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic8/Book.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/intermediate/basic10/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/intermediate/basic10/RectangleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -59,11 +63,17 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pl.sdacademy.intermediate" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.sdacademy.intermediate.complex.complex1" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="groovy.util.GroovyTestCase" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\grzegorz.wdowczyk\Programowanie22\src\main\java\pl\sdacademy\intermediate\complex\complex1" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookStoreTest.findBooksByPrice">
+  <component name="RunManager" selected="JUnit.RectangleTest.testupdateHeightUnderZero">
     <configuration name="BookStoreTest.findBooksByGenre" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
@@ -112,33 +122,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookStoreTest.findBooksByYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RectangleTest.testupdateHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.intermediate.basic8.*" />
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
-      <option name="METHOD_NAME" value="findBooksByYear" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
+      <option name="METHOD_NAME" value="testupdateHeight" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookStoreTest.testfindBooksByAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RectangleTest.testupdateHeightUnderZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.intermediate.basic8.*" />
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
-      <option name="METHOD_NAME" value="testfindBooksByAuthor" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
+      <option name="METHOD_NAME" value="testupdateHeightUnderZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RectangleTest.testupdateHeightUnderZero" />
+        <item itemvalue="JUnit.RectangleTest.testupdateHeight" />
         <item itemvalue="JUnit.BookStoreTest.findBooksByPrice" />
         <item itemvalue="JUnit.BookStoreTest.findBooksByGenre" />
         <item itemvalue="JUnit.BookStoreTest.findBooksByNumberOfPages" />
-        <item itemvalue="JUnit.BookStoreTest.findBooksByYear" />
-        <item itemvalue="JUnit.BookStoreTest.testfindBooksByAuthor" />
       </list>
     </recent_temporary>
   </component>
@@ -205,12 +215,27 @@
       <option name="project" value="LOCAL" />
       <updated>1579940365885</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Testy do 10">
+      <created>1579946226128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579946226128</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Testy do 10">
+      <created>1579946259039</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579946259039</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testy" />
+    <MESSAGE value="Testy do 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testy do 10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="117" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579941192288">
@@ -229,26 +254,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579438353846" />
-    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1579946224025">
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1579950828519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579946224025" />
-    <state width="1322" height="202" key="GridCell.Tab.0.bottom" timestamp="1579946069867">
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579950828519" />
+    <state width="1322" height="202" key="GridCell.Tab.0.bottom" timestamp="1579950828556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579946069867" />
-    <state width="1322" height="202" key="GridCell.Tab.0.center" timestamp="1579946069866">
+    <state width="1322" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579950828556" />
+    <state width="1322" height="202" key="GridCell.Tab.0.center" timestamp="1579950828556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579946069866" />
-    <state width="1322" height="202" key="GridCell.Tab.0.left" timestamp="1579946069866">
+    <state width="1322" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579950828556" />
+    <state width="1322" height="202" key="GridCell.Tab.0.left" timestamp="1579950828555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579946069866" />
-    <state width="1322" height="202" key="GridCell.Tab.0.right" timestamp="1579946069867">
+    <state width="1322" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579950828555" />
+    <state width="1322" height="202" key="GridCell.Tab.0.right" timestamp="1579950828556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579946069867" />
+    <state width="1322" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579950828556" />
     <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1579445413960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -269,10 +294,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="17" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579440188726" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1579946237515">
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1579946267637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579946237515" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579946267637" />
     <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579439050730">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

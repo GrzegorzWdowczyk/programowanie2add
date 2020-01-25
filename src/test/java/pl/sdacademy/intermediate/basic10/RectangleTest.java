@@ -59,15 +59,16 @@ public class RectangleTest {
         Assert.assertEquals(5,rectangle.getHeight());
     }
 
-    @Test
-    public void testupdateHeightUnderZero () {
-        new Rectangle(DEAFULT_WIDTH,-3);
-    }
-
-    @Test
-    public void testupdateWidthUnderZero () {
-        new Rectangle(-2,5);
-    }
+//    @Test
+//    public void testupdateHeightUnderZero () {
+//
+//        new Rectangle(DEAFULT_WIDTH,-3);
+//    }
+//
+//    @Test
+//    public void testupdateWidthUnderZero () {
+//        new Rectangle(-2,5);
+//    }
 
 
 
