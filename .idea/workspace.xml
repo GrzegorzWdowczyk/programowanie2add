@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="79c0db23-40dd-4871-9fbc-6a3736fe0851" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic10/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic10/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/sdacademy/intermediate/basic10/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/intermediate/basic10/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic10/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic10/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/intermediate/basic10/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/intermediate/basic10/RectangleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +22,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -44,8 +55,8 @@
       <recent name="pl.sdacademy.intermediate" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="RectangleTest.testGetOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RectangleTest.testCalculateArea">
+    <configuration name="RectangleTest.testCalculateArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
         <pattern>
@@ -55,7 +66,71 @@
       </extension>
       <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
       <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
-      <option name="METHOD_NAME" value="testGetOne" />
+      <option name="METHOD_NAME" value="testCalculateArea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.testupdateHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
+      <option name="METHOD_NAME" value="testupdateHeight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.testupdateHeightUnderZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
+      <option name="METHOD_NAME" value="testupdateHeightUnderZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.testupdateWidth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
+      <option name="METHOD_NAME" value="testupdateWidth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.testupdateWidthUnderZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programowanie22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
+      <option name="METHOD_NAME" value="testupdateWidthUnderZero" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,7 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RectangleTest.testGetOne" />
+        <item itemvalue="JUnit.RectangleTest.testCalculateArea" />
+        <item itemvalue="JUnit.RectangleTest.testupdateWidthUnderZero" />
+        <item itemvalue="JUnit.RectangleTest.testupdateHeightUnderZero" />
+        <item itemvalue="JUnit.RectangleTest.testupdateHeight" />
+        <item itemvalue="JUnit.RectangleTest.testupdateWidth" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579438513879</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Testy">
+      <created>1579439089671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579439089671</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testy">
+      <created>1579439100600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579439100600</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,6 +198,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Testy" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1579442568376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579442568376" />
     <state x="261" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579438352340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -117,29 +214,57 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579439087815" />
-    <state width="661" height="243" key="GridCell.Tab.0.bottom" timestamp="1579439082515">
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1579445413959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="243" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579439082515" />
-    <state width="661" height="243" key="GridCell.Tab.0.center" timestamp="1579439082514">
+    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579445413959" />
+    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1579445413959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="243" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579439082514" />
-    <state width="661" height="243" key="GridCell.Tab.0.left" timestamp="1579439082514">
+    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579445413959" />
+    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1579445413959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="243" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579439082514" />
-    <state width="661" height="243" key="GridCell.Tab.0.right" timestamp="1579439082514">
+    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579445413959" />
+    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1579445413959">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="243" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579439082514" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1579438542729">
+    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579445413959" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1579445413960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579438542729" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579445413960" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1579445413960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1579445413960" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1579445413960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1579445413960" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1579445413960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1579445413960" />
+    <state x="213" y="17" key="Maven.ArtifactSearchDialog" timestamp="1579440188726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="17" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579440188726" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1579439196134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579439196134" />
     <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579439050730">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1579439050730" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1579440203451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579440203451" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1579443629105">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579443629105" />
   </component>
 </project>
