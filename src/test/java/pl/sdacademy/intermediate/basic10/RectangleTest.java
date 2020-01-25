@@ -3,6 +3,8 @@ package pl.sdacademy.intermediate.basic10;
 import org.junit.*;
 
 public class RectangleTest {
+    public static final int DEAFULT_WIDTH = 3;
+    public static final int DEAFULT_HEIGHT = 4;
     Rectangle rectangle;
 
     @BeforeClass
@@ -12,7 +14,7 @@ public class RectangleTest {
 
     @Before
     public void setRectangle() {
-        rectangle = new Rectangle(3, 4);
+        rectangle = new Rectangle(DEAFULT_WIDTH, DEAFULT_HEIGHT);
     }
 
     @After
@@ -37,12 +39,12 @@ public class RectangleTest {
 
     @Test
         public void testGetHeight () {
-        Assert.assertEquals(4, rectangle.getHeight());
+        Assert.assertEquals(DEAFULT_HEIGHT, rectangle.getHeight());
     }
 
     @Test
     public void testGetWidth () {
-        Assert.assertEquals(3, rectangle.getWidth());
+        Assert.assertEquals(DEAFULT_WIDTH, rectangle.getWidth());
     }
 
     @Test
@@ -59,7 +61,7 @@ public class RectangleTest {
 
     @Test
     public void testupdateHeightUnderZero () {
-        new Rectangle(3,-3);
+        new Rectangle(DEAFULT_WIDTH,-3);
     }
 
     @Test

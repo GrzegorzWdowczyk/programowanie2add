@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="79c0db23-40dd-4871-9fbc-6a3736fe0851" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic10/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic10/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/basic8/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pl/sdacademy/intermediate/basic10/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/intermediate/basic10/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic10/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic10/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic8/Book$BookBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic8/Book$BookBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic8/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/basic8/Book.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/intermediate/basic10/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/intermediate/basic10/RectangleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -49,88 +49,96 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.sdacademy.intermediate.basic8" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pl.sdacademy.intermediate" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.RectangleTest.testCalculateArea">
-    <configuration name="RectangleTest.testCalculateArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BookStoreTest.findBooksByPrice">
+    <configuration name="BookStoreTest.findBooksByGenre" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
-      <option name="METHOD_NAME" value="testCalculateArea" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
+      <option name="METHOD_NAME" value="findBooksByGenre" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest.testupdateHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookStoreTest.findBooksByNumberOfPages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
-      <option name="METHOD_NAME" value="testupdateHeight" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
+      <option name="METHOD_NAME" value="findBooksByNumberOfPages" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest.testupdateHeightUnderZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookStoreTest.findBooksByPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
-      <option name="METHOD_NAME" value="testupdateHeightUnderZero" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
+      <option name="METHOD_NAME" value="findBooksByPrice" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest.testupdateWidth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookStoreTest.findBooksByYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
-      <option name="METHOD_NAME" value="testupdateWidth" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
+      <option name="METHOD_NAME" value="findBooksByYear" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleTest.testupdateWidthUnderZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookStoreTest.testfindBooksByAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.sdacademy.intermediate.basic10.*" />
+          <option name="PATTERN" value="pl.sdacademy.intermediate.basic8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic10" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic10.RectangleTest" />
-      <option name="METHOD_NAME" value="testupdateWidthUnderZero" />
+      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
+      <option name="METHOD_NAME" value="testfindBooksByAuthor" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RectangleTest.testCalculateArea" />
-        <item itemvalue="JUnit.RectangleTest.testupdateWidthUnderZero" />
-        <item itemvalue="JUnit.RectangleTest.testupdateHeightUnderZero" />
-        <item itemvalue="JUnit.RectangleTest.testupdateHeight" />
-        <item itemvalue="JUnit.RectangleTest.testupdateWidth" />
+        <item itemvalue="JUnit.BookStoreTest.findBooksByPrice" />
+        <item itemvalue="JUnit.BookStoreTest.findBooksByGenre" />
+        <item itemvalue="JUnit.BookStoreTest.findBooksByNumberOfPages" />
+        <item itemvalue="JUnit.BookStoreTest.findBooksByYear" />
+        <item itemvalue="JUnit.BookStoreTest.testfindBooksByAuthor" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579439100600</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testy">
+      <created>1579940365885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579940365885</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +213,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Testy" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="117" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579941192288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="117" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579941192288" />
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1579442568376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -210,26 +229,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579438353846" />
-    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1579439087815">
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1579940363518">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579439087815" />
-    <state width="1322" height="217" key="GridCell.Tab.0.bottom" timestamp="1579445413959">
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579940363518" />
+    <state width="1322" height="202" key="GridCell.Tab.0.bottom" timestamp="1579946069867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579445413959" />
-    <state width="1322" height="217" key="GridCell.Tab.0.center" timestamp="1579445413959">
+    <state width="1322" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579946069867" />
+    <state width="1322" height="202" key="GridCell.Tab.0.center" timestamp="1579946069866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579445413959" />
-    <state width="1322" height="217" key="GridCell.Tab.0.left" timestamp="1579445413959">
+    <state width="1322" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579946069866" />
+    <state width="1322" height="202" key="GridCell.Tab.0.left" timestamp="1579946069866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579445413959" />
-    <state width="1322" height="217" key="GridCell.Tab.0.right" timestamp="1579445413959">
+    <state width="1322" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579946069866" />
+    <state width="1322" height="202" key="GridCell.Tab.0.right" timestamp="1579946069867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="217" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579445413959" />
+    <state width="1322" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579946069867" />
     <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1579445413960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -250,14 +269,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="17" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579440188726" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1579439196134">
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1579940408269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579439196134" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1579940408269" />
     <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579439050730">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1579439050730" />
+    <state x="449" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579940787790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="65" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1579940787790" />
+    <state x="413" y="118" width="540" height="501" key="extract.method.dialog" timestamp="1579944087374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" width="540" height="501" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1579944087374" />
     <state x="339" y="157" key="run.anything.popup" timestamp="1579440203451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
