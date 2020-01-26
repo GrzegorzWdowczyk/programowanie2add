@@ -1,19 +1,16 @@
 package pl.sdacademy.intermediate.complex.complex1;
 
-
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * @author Piotr Zietek
  */
 class BookStoreInitializer {
 
-    List<Book> initBookStore() {
-        List<Book> books = new ArrayList<>();
+    Set<Book> initBookStore() {
+        Set<Book> books = new HashSet<>();
         String booksFilePathFromResources = getClass().getClassLoader().getResource("books.txt").getFile();
         File booksFile = new File(booksFilePathFromResources);
         try {

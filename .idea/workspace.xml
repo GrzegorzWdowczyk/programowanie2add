@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c0db23-40dd-4871-9fbc-6a3736fe0851" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookShortInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookStoreInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Complex1BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Genre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/sdacademy/intermediate/basic10/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/sdacademy/intermediate/basic10/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/intermediate/basic10/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/sdacademy/intermediate/basic10/RectangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookShortInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookShortInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookStoreInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/BookStoreInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Complex1BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/intermediate/complex/complex1/Complex1BookStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/Book$BookBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/Book$BookBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookFilterCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookFilterCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookShortInfo$BookShortInfoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookShortInfo$BookShortInfoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookShortInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookShortInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookStoreInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/BookStoreInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/Complex1BookStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/Complex1BookStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/DoubleRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/DoubleRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/IntRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/intermediate/complex/complex1/IntRange.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +67,36 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="pl.sdacademy.intermediate.basic8" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pl.sdacademy.intermediate" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pl.sdacademy.intermediate.complex.complex1" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="groovy.util.GroovyTestCase" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\grzegorz.wdowczyk\Programowanie22\src\main\java\pl\sdacademy\intermediate\complex\complex1" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.sdacademy.intermediate.complex.complex1" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.RectangleTest.testupdateHeightUnderZero">
+  <component name="RunManager" selected="Application.Complex1BookStore">
+    <configuration name="Complex1BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.complex.complex1.Complex1BookStore" />
+      <module name="Programowanie22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.intermediate.complex.complex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookStoreTest.findBooksByGenre" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Programowanie22" />
       <extension name="coverage">
@@ -85,22 +108,6 @@
       <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
       <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
       <option name="METHOD_NAME" value="findBooksByGenre" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookStoreTest.findBooksByNumberOfPages" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Programowanie22" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.sdacademy.intermediate.basic8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.sdacademy.intermediate.basic8" />
-      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.intermediate.basic8.BookStoreTest" />
-      <option name="METHOD_NAME" value="findBooksByNumberOfPages" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Complex1BookStore" />
         <item itemvalue="JUnit.RectangleTest.testupdateHeightUnderZero" />
         <item itemvalue="JUnit.RectangleTest.testupdateHeight" />
         <item itemvalue="JUnit.BookStoreTest.findBooksByPrice" />
         <item itemvalue="JUnit.BookStoreTest.findBooksByGenre" />
-        <item itemvalue="JUnit.BookStoreTest.findBooksByNumberOfPages" />
       </list>
     </recent_temporary>
   </component>
@@ -229,23 +236,31 @@
       <option name="project" value="LOCAL" />
       <updated>1579946259039</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New task">
+      <created>1579950847194</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579950847194</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testy" />
     <MESSAGE value="Testy do 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testy do 10" />
+    <MESSAGE value="New task" />
+    <option name="LAST_COMMIT_MESSAGE" value="New task" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="117" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579941192288">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="117" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579941192288" />
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1579442568376">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1579964306094">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579442568376" />
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579964306094" />
     <state x="261" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579438352340">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -254,26 +269,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1579438353846" />
-    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1579950828519">
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1579950845409">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579950828519" />
-    <state width="1322" height="202" key="GridCell.Tab.0.bottom" timestamp="1579950828556">
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1579950845409" />
+    <state width="1322" height="185" key="GridCell.Tab.0.bottom" timestamp="1580026207274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579950828556" />
-    <state width="1322" height="202" key="GridCell.Tab.0.center" timestamp="1579950828556">
+    <state width="1322" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580026207274" />
+    <state width="1322" height="185" key="GridCell.Tab.0.center" timestamp="1580026207274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579950828556" />
-    <state width="1322" height="202" key="GridCell.Tab.0.left" timestamp="1579950828555">
+    <state width="1322" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580026207274" />
+    <state width="1322" height="185" key="GridCell.Tab.0.left" timestamp="1580026207274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579950828555" />
-    <state width="1322" height="202" key="GridCell.Tab.0.right" timestamp="1579950828556">
+    <state width="1322" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580026207274" />
+    <state width="1322" height="185" key="GridCell.Tab.0.right" timestamp="1580026207274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579950828556" />
+    <state width="1322" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580026207274" />
     <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1579445413960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

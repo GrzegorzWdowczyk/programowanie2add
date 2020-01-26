@@ -4,7 +4,9 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.ToString;
 
+import java.util.List;
 import java.util.Objects;
+import java.util.UUID;
 
 /**
  * @author Piotr Zietek
@@ -14,6 +16,10 @@ import java.util.Objects;
 @Getter
 class Book {
 
+    @Builder.Default
+    private UUID id = UUID.randomUUID();
+    @Builder.Default
+    int amount = 3;
     private String title;
     private String author;
     private int yearPushlished;
@@ -26,16 +32,20 @@ class Book {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Book book = (Book) o;
-        return yearPushlished == book.yearPushlished &&
-                numberOfPages == book.numberOfPages &&
-                title.equals(book.title) &&
-                author.equals(book.author) &&
-                genre == book.genre;
+        return id.equals(book.id);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(title, author, yearPushlished, numberOfPages, genre);
+        return Objects.hash(id);
+    }
+
+    BookShortInfo toBookShortInfo() {
+        return BookShortInfo.builder()
+                .title(this.title)
+                .author(this.author)
+                .yearPushlished (this.yearPushlished)
+                .build();
     }
 
 }

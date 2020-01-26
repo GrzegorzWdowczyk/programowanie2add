@@ -4,15 +4,13 @@ import lombok.Getter;
 
 import java.math.BigDecimal;
 import java.util.List;
+import java.util.Set;
 import java.util.stream.Collectors;
 
-/**
- * @author Piotr Zietek
- */
 @Getter
 class BookStore {
 
-    private List<Book> books;
+    private Set<Book> books;
 
     BookStore() {
         this.books = new BookStoreInitializer().initBookStore();
@@ -52,5 +50,11 @@ class BookStore {
         return books.stream()
              .filter(book -> book.getGenre().equals(genre))
              .collect(Collectors.toList());
+    }
+
+    List<Book> foundBooks(BookFilterCriteria filterCriteria){
+        return books.stream()
+                .filter(book -> filterCriteria.matches(book))
+                .collect(Collectors.toList());
     }
 }
